@@ -13,5 +13,5 @@
     - categorizador.categorizador_de_transacoes -> Linha 4
 
 4. Funções de alta ordem:
-    - main.filtrar_transacoes:filter  -> Linha 59     
-    - processamento.calcular_saldo    -> Linha 7
+    - main.filtrar_transacoes: filter       -> Linha 59     
+    - processamento.calcular_saldo: reduce  -> Linha 7
