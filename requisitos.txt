@@ -1,0 +1,15 @@
+Sistema de Finanças Pessoais - Requisitos
+
+=> Requisitos funcionais:
+    1. Deve ser possível incluir receitas e despesas;
+    2. Deve ser possível consultar o saldo atual a qualquer momento;
+    3. Deve ser possível listar todas as transações já cadastradas;
+    4. Deve ser possível visualizar as transações realizadas filtradas por categoria;
+    5. Deve ser possível deletar as já transações cadastradas.
+
+=> Requisitos não funcionais:
+    1. A aplicação deve ser intuitiva e de simples usabilidade;
+    2. A aplicação deve ser capaz de armazenar as transações cadastradas localmente em arquivos json e não somente em memória;
+    3. O usuário deve receber um feedback de cada operação que realizar;
+    4. Os erros de usabilidade devem ser bem tratados para que não ocorram crashes;
+    5. A aplicação deve ser desevolvida utilizando o paradigma de programação funcional.

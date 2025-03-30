@@ -1,0 +1,1 @@
+formatar_moeda = lambda valor: f"R$ {valor:.2f}".replace('.', ',') # Lambda function
